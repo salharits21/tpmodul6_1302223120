@@ -1,0 +1,15 @@
+D:\codingan\tpmodul6_1302223120\tpmodul6_1302223120\bin\Debug\net8.0\tpmodul6_1302223120.exe
+D:\codingan\tpmodul6_1302223120\tpmodul6_1302223120\bin\Debug\net8.0\tpmodul6_1302223120.deps.json
+D:\codingan\tpmodul6_1302223120\tpmodul6_1302223120\bin\Debug\net8.0\tpmodul6_1302223120.runtimeconfig.json
+D:\codingan\tpmodul6_1302223120\tpmodul6_1302223120\bin\Debug\net8.0\tpmodul6_1302223120.dll
+D:\codingan\tpmodul6_1302223120\tpmodul6_1302223120\bin\Debug\net8.0\tpmodul6_1302223120.pdb
+D:\codingan\tpmodul6_1302223120\tpmodul6_1302223120\obj\Debug\net8.0\tpmodul6_1302223120.GeneratedMSBuildEditorConfig.editorconfig
+D:\codingan\tpmodul6_1302223120\tpmodul6_1302223120\obj\Debug\net8.0\tpmodul6_1302223120.AssemblyInfoInputs.cache
+D:\codingan\tpmodul6_1302223120\tpmodul6_1302223120\obj\Debug\net8.0\tpmodul6_1302223120.AssemblyInfo.cs
+D:\codingan\tpmodul6_1302223120\tpmodul6_1302223120\obj\Debug\net8.0\tpmodul6_1302223120.csproj.CoreCompileInputs.cache
+D:\codingan\tpmodul6_1302223120\tpmodul6_1302223120\obj\Debug\net8.0\tpmodul6_1302223120.sourcelink.json
+D:\codingan\tpmodul6_1302223120\tpmodul6_1302223120\obj\Debug\net8.0\tpmodul6_1302223120.dll
+D:\codingan\tpmodul6_1302223120\tpmodul6_1302223120\obj\Debug\net8.0\refint\tpmodul6_1302223120.dll
+D:\codingan\tpmodul6_1302223120\tpmodul6_1302223120\obj\Debug\net8.0\tpmodul6_1302223120.pdb
+D:\codingan\tpmodul6_1302223120\tpmodul6_1302223120\obj\Debug\net8.0\tpmodul6_1302223120.genruntimeconfig.cache
+D:\codingan\tpmodul6_1302223120\tpmodul6_1302223120\obj\Debug\net8.0\ref\tpmodul6_1302223120.dll
